@@ -1,0 +1,2 @@
+from ._modelling import deeplabv3plus_resnet32, deeplabv3plus_resnet50
+from ._deeplab import convert_to_separable_conv
